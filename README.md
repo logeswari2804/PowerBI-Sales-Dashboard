@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyses sales performance using DAX measures for key business metrics, time-based trends, product rankings and actual-vs-target tracking.
 
-![Dashboard](dashboard.png.png)
+![Dashboard](dashboard.png.)
 
 ## Overview
 
@@ -75,8 +75,8 @@ Profit Rank = RANKX(ALL(DimProduct[ProductName]), [total_profit], , DESC, Dense)
 ## Files
 
 - `Sales Dataset.xlsx`: source data (FactSales and DimProduct sheets)
-- `Sales Analysis Dashboard.pbit`: Power BI template of the report (open with Power BI Desktop)
-- `dashboard.png.png`: dashboard screenshot
+- `Sales Analysis Dashboard.pbix`: Power BI report (open with Power BI Desktop)
+- `dashboard.png`: dashboard screenshot
 
 ## Note
 
