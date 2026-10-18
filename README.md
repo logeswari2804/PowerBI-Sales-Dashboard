@@ -75,8 +75,8 @@ Profit Rank = RANKX(ALL(DimProduct[ProductName]), [total_profit], , DESC, Dense)
 ## Files
 
 - `Sales Dataset.xlsx`: source data (FactSales and DimProduct sheets)
-- `salesdata dax.pbix`: Power BI report (open with Power BI Desktop)
-- `dashboard.png`: dashboard screenshot
+- `Sales Analysis Dashboard.pbit`: Power BI template of the report (open with Power BI Desktop)
+- `dashboard.png.png`: dashboard screenshot
 
 ## Note
 
