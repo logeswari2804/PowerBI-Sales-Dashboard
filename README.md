@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyses sales performance using DAX measures for key business metrics, time-based trends, product rankings and actual-vs-target tracking.
 
-![Dashboard](dashboard.png.)
+![Dashboard](dashboard.png)
 
 ## Overview
 
